@@ -1,6 +1,6 @@
 {
     "require": {
-        "brightfishsoftware/haplomvc" : ">=0.1.1"
+        "brightfishsoftware/haplomvc" : ">=0.1.3"
     },
     "require-dev": {
         "phpunit/phpunit": "~3.7.0"
